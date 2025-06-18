@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1724350878 source:d:\documentos\desktop\proresvista\main.c
+	<Windows.h>
+	<shellapi.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DEFINICIONES.h"
+
+1724077450 d:\documentos\desktop\proresvista\prueba.h
+	<stdio.h>
+
+1724159966 source:c:\users\samuelrosales\desktop\proresvista 1.01\proresvista\main.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724254836 source:d:\documentos\desktop\proresvista\version\v6\main.c
+	<Windows.h>
+	<shellapi.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DEFINICIONES.h"
+
+1724254461 d:\documentos\desktop\proresvista\version\v6\definiciones.h
+
+1724346050 d:\documentos\desktop\proresvista\definiciones.h
+
+1641156691 source:c:\revista\main.c
+	<Windows.h>
+	<shellapi.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DEFINICIONES.h"
+
+1641156786 c:\revista\definiciones.h
+
+1724982027 source:c:\v10\revista\main.c
+	<Windows.h>
+	<shellapi.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DEFINICIONES.h"
+
+1724984716 c:\v10\revista\definiciones.h
+
+1641151342 c:\revista\scroll.h
+	<windows.h>
+

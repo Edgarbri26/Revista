@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1641122265 source:c:\revista\ahorcado\ahorcado.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wingdi.h>
+	"../DEFINICIONES.h"
+
+1724958016 source:c:\users\revista\ahorcado\ahorcado.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wingdi.h>
+	"../libreria/DEFINICIONES.h"
+
+1724862930 c:\users\revista\libreria\definiciones.h
+
+1724958016 source:c:\users\usuario\revista\ahorcado\ahorcado.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wingdi.h>
+	"../libreria/DEFINICIONES.h"
+
+1724862930 c:\users\usuario\revista\libreria\definiciones.h
+
+1724960481 source:c:\revista\ahorcado\imagenes.rc
+	"windows.h"
+
+1724979128 c:\revista\libreria\definiciones.h
+
+1724967954 c:\revista\libreria\funciones.h
+	<windows.h>
+
+1641122249 c:\revista\definiciones.h
+

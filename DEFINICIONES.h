@@ -10,19 +10,18 @@ void probar(){
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // ruta musica
 
-#define MUSICA "C:/Revista/MUSICA/elevador .wav"
-
+#define MUSICA "MUSICA\\elevador .wav"
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //variables externas
 
-extern int idio;// idioma
+extern int idio = 0;// idioma
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //RUTA PARA ABRIRI CON EL SHELL
 
 const char *RUTA_CREDITOS[] = {"https://youtu.be/c0jsZw-lSAg?si=vjDechk11ZnDZ7nH","https://youtu.be/EaFux-PeXVI?si=X4lRKUzkXaQ8ixwy"};
-const char *RUTA_CALCULADORA[] = {"C:/Revista/calculator/calculadora.exe","C:/Revista/calculator/calculadora_inglés.exe"};
-#define RUTA_JUEGO "C:/revista/Ahorcado/bin/Debug/Ahorcado.exe"
+const char *RUTA_CALCULADORA[] = {"calculator\\calculadora.exe","calculator\\calculadora_inglés.exe"};
+#define RUTA_JUEGO "Ahorcado\\bin\\Debug\\Ahorcado.exe"
 
  // links de los videos
 #define LINKS_SAMUEL "https://www.youtube.com/watch?v=wMW2xnkXeCw"
@@ -209,7 +208,7 @@ const char *volver_juego[] = {"Volver a jugar", "Replay"};
 
 
 //Imagenes del juego del juego
-#define IMAGE_0 "C:/revista/Ahorcado/AhorcadoFinal - bmp/Ahorcado7.bmp"
+/*#define IMAGE_0 "C:/revista/Ahorcado/AhorcadoFinal - bmp/Ahorcado7.bmp"
 #define IMG_1   "C:/revista/Ahorcado/AhorcadoFinal - bmp/Ahorcado6.bmp"
 #define IMG_2 "C:/revista/Ahorcado/AhorcadoFinal - bmp/Ahorcado5.bmp"
 #define IMG_3 "C:/revista/Ahorcado/AhorcadoFinal - bmp/Ahorcado4.bmp"
@@ -231,7 +230,32 @@ const char *IMG_TITULO[] = {"C:/revista/Ahorcado/AhorcadoFinal - bmp/titulo.bmp"
 #define IMG_I "C:/revista/Ahorcado/AhorcadoFinal - bmp/I.bmp"
 #define IMG_T "C:/revista/Ahorcado/AhorcadoFinal - bmp/T.bmp"
 #define IMG_M "C:/revista/Ahorcado/AhorcadoFinal - bmp/M.bmp"
-#define IMG_H "C:/revista/Ahorcado/AhorcadoFinal - bmp/H.bmp"
+#define IMG_H "C:/revista/Ahorcado/AhorcadoFinal - bmp/H.bmp"*/
+
+//Imagenes del juego del juego
+#define IMAGE_0 "Ahorcado\\AhorcadoFinal - bmp\\Ahorcado7.bmp"
+#define IMG_1   "Ahorcado\\AhorcadoFinal - bmp\\Ahorcado6.bmp"
+#define IMG_2 "Ahorcado\\AhorcadoFinal - bmp\\Ahorcado5.bmp"
+#define IMG_3 "Ahorcado\\AhorcadoFinal - bmp\\Ahorcado4.bmp"
+#define IMG_4 "Ahorcado\\AhorcadoFinal - bmp\\Ahorcado3.bmp"
+#define IMG_5 "Ahorcado\\AhorcadoFinal - bmp\\Ahorcado2.bmp"
+#define IMG_6 "Ahorcado\\AhorcadoFinal - bmp\\Ahorcado1.bmp"
+#define IMG_6_1 "Ahorcado\\AhorcadoFinal - bmp\\Ahorcado1.01.bmp"
+
+const char *IMG_7[] = {"Ahorcado\\AhorcadoFinal - bmp\\termino.bmp", "Ahorcado\\AhorcadoFinal - bmp\\gameover.bmp"};
+const char *IMG_GANO[] = {"Ahorcado\\AhorcadoFinal - bmp\\ganaste.bmp", "Ahorcado\\AhorcadoFinal - bmp\\youwon.bmp"};
+const char *IMG_REGLAS[] = {"Ahorcado\\AhorcadoFinal - bmp\\reglas.bmp", "Ahorcado\\AhorcadoFinal - bmp\\rules.bmp"};
+const char *IMG_TITULO[] = {"Ahorcado\\AhorcadoFinal - bmp\\titulo.bmp", "Ahorcado\\AhorcadoFinal - bmp\\title.bmp"};
+#define IMG_BASE "Ahorcado\\AhorcadoFinal - bmp\\BASE.bmp"
+#define IMG_L "Ahorcado\\AhorcadoFinal - bmp\\L.bmp"
+#define IMG_O "Ahorcado\\AhorcadoFinal - bmp\\O.bmp"
+#define IMG_G "Ahorcado\\AhorcadoFinal - bmp\\G.bmp"
+#define IMG_A "Ahorcado\\AhorcadoFinal - bmp\\A.bmp"
+#define IMG_R "Ahorcado\\AhorcadoFinal - bmp\\R.bmp"
+#define IMG_I "Ahorcado\\AhorcadoFinal - bmp\\I.bmp"
+#define IMG_T "Ahorcado\\AhorcadoFinal - bmp\\T.bmp"
+#define IMG_M "Ahorcado\\AhorcadoFinal - bmp\\M.bmp"
+#define IMG_H "Ahorcado\\AhorcadoFinal - bmp\\H.bmp"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // registrar las clases

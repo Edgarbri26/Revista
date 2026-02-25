@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1641122265 source:c:\revista\ahorcado\ahorcado.c
+1771988210 source:c:\revista\ahorcado\ahorcado.c
 	<Windows.h>
 	<stdio.h>
 	<stdlib.h>
@@ -35,5 +35,5 @@
 1724967954 c:\revista\libreria\funciones.h
 	<windows.h>
 
-1641122249 c:\revista\definiciones.h
+1771988310 c:\revista\definiciones.h
 
